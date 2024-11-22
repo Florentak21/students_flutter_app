@@ -1,6 +1,6 @@
 # student_app
 
-A new Flutter application to store student
+Flutter application to manage students
 
 ## Getting Started
 
